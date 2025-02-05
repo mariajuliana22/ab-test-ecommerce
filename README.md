@@ -20,6 +20,7 @@ This project analyzes strategies to increase the revenue of an online store thro
 - Matplotlib
 - Scipy
 - Numpy
+- Datetime
 
 ## Estructura del Proyecto / Project structure
 1. Priorización de hipótesis usando los frameworks ICE y RICE.
