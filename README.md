@@ -1,4 +1,4 @@
-# Tienda Online / Online Store
+# Optimización de Ingresos en una Tienda Online: Priorización de Hipótesis y Prueba A/B / Revenue Optimization in an Online Store: Hypothesis Prioritization and A/B Testing
 Tomar decisiones de negocio basadas en datos - Priorizar hipótesis, lanzar un test A/B y analizar los resultados 
 
 Making Data-Driven Business Decisions - Prioritizing Hypotheses, Launching an A/B Test, and Analyzing Results.
@@ -8,8 +8,6 @@ Making Data-Driven Business Decisions - Prioritizing Hypotheses, Launching an A/
 Proyecto hecho para TripleTen (Bootcamp online) - Sprint 10. Tomar decisiones de negocio basadas en datos 
 
 Project created for TripleTen (Online Bootcamp) - Sprint 10. Making Data-Driven Business Decisions
-
-# Optimización de Ingresos en una Tienda Online: Priorización de Hipótesis y Prueba A/B / Revenue Optimization in an Online Store: Hypothesis Prioritization and A/B Testing
 
 ## Descripción / Description
 Este proyecto analiza estrategias para aumentar los ingresos de una tienda online mediante la priorización de hipótesis y la evaluación de una prueba A/B.
